@@ -1,0 +1,41 @@
+_repo: A-Woman-and-the-War_63910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warwick, Frances Evelyn Maynard Greville, Countess of
+    aliases:
+    - Warwick, Daisy
+    - Greville, Frances Evelyn Maynard, Countess of Warwick
+    birthdate: 1861
+    deathdate: 1938
+    gutenberg_agent_id: '52660'
+    url: http://www.gutenberg.org/2009/agents/52660
+    wikipedia: https://en.wikipedia.org/wiki/Daisy_Greville,_Countess_of_Warwick
+description: ''
+gutenberg_issued: '2020-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63910'
+  lccn: '16023379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Great Britain -- Social conditions -- 20th century'
+- !lcsh 'World War, 1914-1918 -- Women'
+- !lcsh 'World War, 1914-1918'
+- GITenberg
+tableOfContents: 'King Edward and the Kaiser -- The greatest fight of all -- England''s
+  drink legislation -- War and marriage -- Nursing in war time -- Two years of war:
+  woman''s loss and gain -- Child labour on the land -- Comrades -- The curse of autocracy
+  -- Woman''s war work on the land -- German women and militarism -- Youth in the
+  shambles -- Thoughts on compulsion -- Women and war -- Race suicide -- The lesson
+  of the picture theatre -- Truth will out -- The claim of all the children -- The
+  Prussian in our midst -- The grown-up girls of England -- The social horizon --
+  How shall we minister to a world diseased? -- How I would work for peace -- Lord
+  French -- Lord Haldane: some recollections and an estimate -- Grounds for optimism
+  -- Anglo-American relations in peace and war.'
+title: A Woman and the War
+url: http://www.gutenberg.org/ebooks/63910
